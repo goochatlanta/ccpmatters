@@ -6,6 +6,7 @@ The Free World allows the CCP to torment the Chinese to the detriment of them an
     - Increased censoring on media, personal acitivities, how and who to celebrate as martyrs, rewriting text books. 
     - Supporting human rights violations from Uighurs to human trafficking.
 2. Find literature to provide evidence for the effect. 
+    - Evidence from studies on political repression
 
 ## Overview
 
