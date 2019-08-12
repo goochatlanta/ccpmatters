@@ -2,6 +2,9 @@
 
 The Free World allows the CCP to torment the Chinese to the detriment of them and the rest of us. What if China had continued to grow since the late 19th century? The world would be a lot different today. 
 
+1. Characterize what China is doing to its population. 
+2. Find literature to provide evidence for the effect. 
+
 ## Overview
 
 Motivation: The World Should care about the Domestic Policies of the Chinese Communist Party
