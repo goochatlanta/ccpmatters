@@ -2,7 +2,7 @@
 
 The Free World allows the CCP to torment the Chinese to the detriment of them and the rest of us. What if China had continued to grow since the late 19th century? The world would be a lot different today. 
 
-1. Characterize what China is doing to its population that the world should care about. 
+1. Characterize what China is doing to its population that the world should care about. What do I care about writing about - anti-democracy, anti-human rights, disinformation. Why do I care? 
     - Increased censoring on media, personal acitivities, how and who to celebrate as martyrs, rewriting text books. 
     - Supporting human rights violations from Uighurs to human trafficking.
 2. Find literature to provide evidence for the effect. 
