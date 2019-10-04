@@ -8,6 +8,18 @@ The Free World allows the CCP to torment the Chinese to the detriment of them an
 2. Find literature to provide evidence for the effect. 
     - Evidence from studies on political repression
 
+## Notes on New Idea
+
+- Central point: The Belt and Road initiative is supporting the strengthening and continuation of the Chinese Communist Party (CCP). 
+- Motivation: The CCP is threatening to democracy around the world as it exports illiberal supports. Can I back this up? Dividing the world around censorship and control, human rights violations, authoritarianism.
+- How is the BRI supporting the regime: Two ways based on views on the middle class’ support of the status quo, (1) the Chinese middle class is a group of elites that benefits from the CCP power or (2) the Chinese middle class will continue to allow the CCP to keep power if they get their needs met. 
+- Other points: the BRI is relations to anti-corruption, Uyghur suppression, Social credit - how does this mesh with Shambaugh’s analysis of what the Chinese have learned from the collapse of the other Communist states. CCP has been bolstering itself. Pei and Schaeffer discuss how the anti-corruption keep the elites from dividing. One of my points is how China’s accession into the WTO was a boon to the regime. Enriching China is to support the CCP. 
+- From Shambaugh’s review of the pessimists’ and optimists’ ideas for the future of the regime, none said that the world would aid in its support (foreign intervention was only viewed as an overthrow.) How could the pessimists have their point of view simultaneously to the US money entering China?
+- Shaeffer criticizes Western academics for the blindness to the bad parts of the Chinese government. 
+- I can write this - I just need to do it a little at a time, in pointed sections. 
+- The West crucial role in China’s rise. The new world order did not come about on its own but the inclusion of an illiberal economy in the world economy. Previously, the Cold War created a boycott, suffocating the Soviet Union and Cuba. Is this what the TPP suggested doing? Westad says that this is not another Cold War. Why are people starting to say that now? Because China is taking initiative to find allies? China mutual agreements up the wazoo. 
+- How does Elizabeth Economy’s Third Revolution come into play in this analysis? 
+
 ## Overview
 
 Motivation: The World Should care about the Domestic Policies of the Chinese Communist Party
