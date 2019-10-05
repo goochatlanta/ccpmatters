@@ -1,0 +1,37 @@
+\documentclass{article}
+
+\begin{document}
+
+% How to organize
+
+\section{Introduction}
+
+% Why are people, just now starting to say the US and China are in a cold war relative to uptick in BRI? Westad has some serious insights. China creating some alternative institutions in the world, AIIB, BRI, infrastructure, trade relationships.
+
+\section{Background}
+
+% China as an illiberal regime - Chinese soft power to ease American minds, democracy with Chinese characteristics
+
+% US inclusion of illiberal regime in world economy, unlike others - does the West not take Chinese illiberalism seriously?
+
+\section{Framework}
+  \input{middleclass}
+% Its actually the simultaneity of the repression under Xi and the BRI. Economic growth via BRI for China's middle class and support of the status quo - BRI slowing transition to democracy
+
+% Middle class as elites - model for oligrach enrichment
+
+% Satisfication as soother to uprising - relative deprivation - this CCP is upping repression and offsetting with economic growth
+
+\section{BRI in context of broader regime support efforts} % In context of demise of other Communist regimes
+
+% Anti-corruption
+
+% Uyghur suppression
+
+% Social credit
+
+\section{Foreign intervention}
+
+% Foreign intervention as a support not an overthrow, WTO accession, removal of TPP, olympics, UN involvement
+
+\end{document}
